@@ -1,17 +1,18 @@
-# 0xSaurabh >_
-### Beginner Python Learner
+# Hi, I'm Saurabh 👋
+**Beginner Python Learner | Tech Enthusiast**
 
 ---
 
-### 📂 system_info
-> I operate in the shadows of code. Currently focused on mastering **Python** and exploring **Linux** systems.
+### 👨‍💻 About Me
+I am a passionate learner currently exploring the world of **Python** and **Linux**. I like to keep things simple and efficient.
 
-- **Status:** Learning... always.
-- **Task:** Building minimalist portfolio.
+- 🌱 Currently diving deep into Python scripting.
+- 🔭 Working on my minimalist portfolio website.
+- ⚡ I believe in continuous learning and building.
 
 ---
 
-### 🛠️ tools --installed
+### 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -20,12 +21,11 @@
 
 ---
 
-### 📈 terminal --stats
+### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudosammi&show_icons=true&theme=matrix&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudosammi&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-### 🔒 [CONNECTION ENCRYPTED]
-*No social footprint required. The code speaks for itself.*
+*Focusing on code and growth. No socials, just building.*
