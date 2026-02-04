@@ -4,11 +4,11 @@
 ---
 
 ### 👨‍💻 About Me
-I am a passionate learner currently exploring the world of **Python** and **Linux**. I like to keep things simple and efficient.
+I am a passionate learner currently exploring the world of **Python** and **Linux**.
 
 - 🌱 Currently diving deep into Python scripting.
 - 🔭 Working on my minimalist portfolio website.
-- ⚡ I believe in continuous learning and building.
+- ⚡ Focus is on building and learning every day.
 
 ---
 
@@ -21,11 +21,4 @@ I am a passionate learner currently exploring the world of **Python** and **Linu
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudosammi&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
-*Focusing on code and growth. No socials, just building.*
+*The code speaks for itself. No socials, no distractions.*
