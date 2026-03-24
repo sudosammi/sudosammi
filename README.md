@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hi,%20I'm%20Sudosammi%20%E2%9A%A1&fontSize=50&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20Researcher%20%7C%20Python%20Developer%20%7C%20Red%20&%20Blue%20Teamer&descAlign=50&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&fontColor=000000&height=200&section=header&text=Hi,%20I'm%20Sudosammi%20⚡&fontSize=50&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20Researcher%20|%20Python%20Developer%20|%20Red%20&%20Blue%20Teamer&descAlign=50&descAlignY=65&descSize=20" />
 </div>
 
-<h3 align="center">💬 "Transitioning from Script Kiddie to Security Researcher. Building tools, breaking systems, and learning to defend them."</h3>
+<h3 align="center">💬 "Transitioning from Script Kiddie to Security Researcher. Building tools, breaking systems, and learning to defend them." 💖</h3>
+
+<div align="center">
+  <p>Status: Give my profile a chhota sa pink makeover! Still chasing threats, just in style. 🌸</p>
+</div>
 
 ---
 
@@ -27,21 +31,21 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats & Activity (Set to Pink Mode)
 
 <div align="center">
   <a href="https://github.com/sudosammi">
-    <img src="https://github-readme-stats.vercel.app/api?username=sudosammi&show_icons=true&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF&hide_border=true" alt="sudosammi's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sudosammi&show_icons=true&bg_color=FADADD&text_color=000000&icon_color=D0312D&title_color=D0312D&hide_border=true" alt="sudosammi's GitHub Stats" />
   </a>
   <a href="https://github.com/sudosammi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudosammi&theme=radical&background=0D1117&text=C9D1D9&dates=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&hide_border=true" alt="sudosammi's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudosammi&background=FADADD&text=000000&dates=D0312D&ring=D0312D&fire=D0312D&currStreakLabel=D0312D&hide_border=true" alt="sudosammi's GitHub Streak" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudosammi&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="sudosammi's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudosammi&color=D0312D&line=D0312D&point=000000&bg_color=FFFFFF&area=true&hide_border=true" alt="sudosammi's Activity Graph" />
 </div>
 
 ---
