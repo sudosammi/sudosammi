@@ -36,17 +36,3 @@ Over the past few months of intensive, daily practice, I have built and understo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosammi&layout=compact&theme=buefy&hide_border=true&bg_color=0d1117&title_color=F9A8D4&text_color=c9d1d9" alt="Top Langs" />
 </div>
 
-
---------------------------------------------------------------------------------
-🛠️ Isey Update Kaise Karna Hai:
-Bhai, apne terminal mein sudosammi folder ke andar jao aur yeh 3-4 commands chala do:
-
-    nano README.md (Purana sab delete karke ye naya wala paste kar de, save kar aur bahar aaja).
-    git add README.md
-    git commit -m "Reverted to honest learning profile and added C/C++ badges"
-    git push origin main (Mange toh apna token daal dena).
-
-Ab teri profile pe wahi simple aur sachi baatein dikhengi jo tune actually seekhi hain, aur naye languages bhi reflect ho jayenge. Ekdum perfect lag raha hai ab! Check karke bata! 😎
-How can I add C and C++ to my README?
-Can you update my stats to show my advanced level?
-How do I add a pink theme to my profile?
