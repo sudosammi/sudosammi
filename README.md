@@ -1,43 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&fontColor=000000&height=200&section=header&text=Hi,%20I'm%20Sudosammi&fontSize=50&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20Student%20|%20Python%20Dev&descAlign=50&descAlignY=65&descSize=20" />
-</div>
-
-<h3 align="center">Building tools, breaking systems, and learning to defend them.</h3>
-
-<br>
-
-## 🚀 My Journey
-- 🎯 **Focus:** Offensive Security, Python Tooling, and Network Defense.
-- 🛠️ **Projects:** Custom RATs, MITM scripts (DNS/ARP Spoofing), Packet Sniffers.
-- 🔭 **Current Learning:** Web App Security, Bug Bounty, and Blue Teaming.
-
----
-
-## ⚔️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F9A8D4&center=true&vCenter=true&width=600&lines=Hi,+I'm+Saurabh+(sudosammi);Cyber+Security+Student+%7C+Bug+Hunter;Building+Tools,+Breaking+Systems!" alt="Typing SVG" />
 </div>
 
 ---
 
-## 📈 Stats
+### 🚀 The Journey & Current Focus
+I started my tech journey in early 2026, rapidly transitioning from basic scripting to advanced security research. I believe in understanding the core architecture of systems, which is why I am currently following a strict **"No Copy-Paste Pact"**. Instead of relying on automated scanners, I write my own custom tools from scratch in Python and Bash.
 
+- 🔭 **Currently Building:** Solidifying my Python logic, escaping "Tutorial Hell," and focusing on manual Web Hacking / Bug Bounty on platforms like Intigriti.
+- 🛠 **My Custom Arsenal:** 
+  - **Offensive:** Automated Bug Bounty Pipelines (Recon to Reporting), Python RATs & Keyloggers, Custom MITM/DNS Spoofers.
+  - **Defensive:** Blue Teaming, Memory/Disk Forensics (Volatility/Scalpel), SIEM configuration, and Server Hardening.
+- 💻 **Tech Environment:** Python, Bash, Kali Linux / Arch Linux (Yes, I use Arch btw), Burp Suite.
+
+### 📈 Live Hacker Stats
 <div align="center">
-  <a href="https://github.com/sudosammi">
-    <img src="https://github-readme-stats.vercel.app/api?username=sudosammi&show_icons=true&bg_color=FADADD&text_color=000000&icon_color=D0312D&title_color=D0312D&hide_border=true" alt="Stats" />
-  </a>
-  <a href="https://github.com/sudosammi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudosammi&background=FADADD&text=000000&dates=D0312D&ring=D0312D&fire=D0312D&currStreakLabel=D0312D&hide_border=true" alt="Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudosammi&show_icons=true&theme=buefy&hide_border=true&bg_color=0d1117&title_color=F9A8D4&icon_color=F9A8D4&text_color=c9d1d9" alt="sudosammi's stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosammi&layout=compact&theme=buefy&hide_border=true&bg_color=0d1117&title_color=F9A8D4&text_color=c9d1d9" alt="Top Langs" />
 </div>
 
-<br>
+<p align="center">
+  <i>"Don't just use tools. Build them. Understand them. Master them."</i>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudosammi&color=D0312D&line=D0312D&point=000000&bg_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</div>
