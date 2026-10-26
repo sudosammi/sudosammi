@@ -27,5 +27,5 @@ I am a **Cybersecurity Student** passionate about ethical hacking, network secur
 
 ---
 
-> ⚠️ **Note:** Main filhal GitHub par active nahi rehta hu.
+> ⚠️ **Note:**____________________________________________.
 
